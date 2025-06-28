@@ -46,7 +46,7 @@ docker-compose up --build
 Сервисы будут доступны по адресам:
 
 * Backend API: [http://localhost:8000](http://localhost:8000)
-* Frontend: [http://localhost:3000](http://localhost:5173)
+* Frontend: [http://localhost:5173](http://localhost:5173)
 
 ---
 
